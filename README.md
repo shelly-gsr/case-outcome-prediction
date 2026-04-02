@@ -49,8 +49,7 @@ cd case-outcome-prediction
 - Model performance is evaluated using standard classification metrics
 - Results may vary depending on dataset and model choice
 
-![confusion-matrix](00_data/assets/confusion-matrix.png)
-![feature-importance](00_data/assets/feature-importance.png)
+![results-case-prediction](00_data/assets/results-case-prediction.png)
 
 ---
 
